@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringDemo {
+public class Employee {
     public static void main(String[] args) {
         String s;
         System.out.println("Enter a String");
